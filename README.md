@@ -1,2 +1,2 @@
 # WebDev_Assignment-Saurabh_Singh-MCA-3C-189-
-🔐 Password Generator App – React  This project is a simple and interactive Password Generator built using React, showcasing essential concepts of modern React development. The app lets users create secure passwords by selecting the desired length and choosing options like numbers and special characters. 
+A simple Password Generator App built with React. It lets users create strong passwords by selecting length, numbers, and special characters. The project uses useEffect to update passwords automatically, useCallback to optimize the generator function, and useRef to copy passwords to the clipboard. A clean and easy-to-use app demonstrating core React hooks.
